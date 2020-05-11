@@ -1,4 +1,4 @@
-importScripts("/CaesarsMyRewardsPOCprecache-manifest.409c62856221039b9e484fe09911f66f.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("precache-manifest.c4a4a0f10aabd4b0f716bc1daaa292e0.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 
 console.log('Service worker Loaded ');
