@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "Reservation.chunk.js"
   },
   {
-    "revision": "484b5c3788a50a3f8b3d",
+    "revision": "0a86f866f63a3b6c17ef",
     "url": "bundle.js"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icon_96x96.a6419fdf1304f08e159fabb12f788297.png"
   },
   {
-    "revision": "1e8476936eb20b5efc30f6e0aeb7a260",
+    "revision": "e76a8743dcc091d0a989fb4885f23788",
     "url": "index.html"
   },
   {
