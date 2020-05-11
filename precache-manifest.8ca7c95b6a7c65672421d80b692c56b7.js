@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icon_96x96.a6419fdf1304f08e159fabb12f788297.png"
   },
   {
-    "revision": "e76a8743dcc091d0a989fb4885f23788",
+    "revision": "1e8476936eb20b5efc30f6e0aeb7a260",
     "url": "index.html"
   },
   {
