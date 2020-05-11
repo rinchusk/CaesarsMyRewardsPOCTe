@@ -68,31 +68,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "98177d163f74efb869322b05fca4997b.woff"
   },
   {
-    "revision": "d3f861f135de36836e06",
+    "revision": "d58aaa3957287d96d5db",
     "url": "LeaderBoard.chunk.js"
   },
   {
-    "revision": "704646b0c5b501cb9c18",
+    "revision": "bbe8c9ec5d36cba09298",
     "url": "MyOffers.chunk.js"
   },
   {
-    "revision": "a340df1ca6622f3b29a6",
+    "revision": "46b86d775eea2db3d410",
     "url": "MyRewards.chunk.js"
   },
   {
-    "revision": "01c49fa5f244f28d1ced",
+    "revision": "53cc810b64eb3d46580c",
     "url": "OfferDetails.chunk.js"
   },
   {
-    "revision": "b5b5b46fd9d087aa6dde",
+    "revision": "34068a4fd3b57d87ad4d",
     "url": "QuestForRewards.chunk.js"
   },
   {
-    "revision": "a964bdc6a6c62872a926",
+    "revision": "493c20918f363c7c5493",
     "url": "Reservation.chunk.js"
   },
   {
-    "revision": "56028ae6113386f202be",
+    "revision": "b6a628a9a64e656b4369",
     "url": "bundle.js"
   },
   {
@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "69629f43e3efcf1d5aed",
+    "revision": "c6a71fe7183177f2b265",
     "url": "vendors~MyOffers.chunk.js"
   },
   {
